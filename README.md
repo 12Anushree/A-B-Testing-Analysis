@@ -79,5 +79,40 @@ valid result
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-📬 Connect With Me
-<div align="center"><a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a></div><img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=4,12,20&height=450&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=20&fontColor=00000&animation=twinkling"/><div align="center">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100"/>
+
+### Ready to collaborate on something great? 🚀
+
+<br/>
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=white&style=for-the-badge" height="42"/>
+</a>
+<a href="mailto:riyaggit58@gmail.com">
+  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836.svg?logo=mail&logoColor=white&style=for-the-badge" height="42"/>
+</a>
+<a href="https://github.com/12Anushree">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge" height="42"/>
+</a>
+
+<br/><br/>
+
+### 💖 Support My Work
+
+If you find my projects helpful, consider:
+
+<a href="https://buymeacoffee.com/yourhandle">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
+</a>
+<a href="https://github.com/sponsors/yourusername">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:6dd5fa,50:2980B9,100:6a11cb&height=500&section=footer&text=Thanks%20for%20visiting!%20💫&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60&desc=Made%20with%20❤️%20and%20lots%20of%20☕&descSize=18&descAlignY=85"/>
