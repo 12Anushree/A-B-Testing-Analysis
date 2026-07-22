@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=4,12,20&height=450&section=header&text=A/B%20Testing%20Analysis&fontSize=50&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Data-Driven%20Decision%20Making&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,20:9a3412,40:ea580c,65:f97316,85:fbbf24,100:fef3c7&height=200&section=header&text=A/B%20Testing%20Analysis&fontSize=50&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Data-Driven%20Decision%20Making&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=🧪+Hypothesis+Testing+Done+Right;📊+Statistical+Significance+Testing;🎯+Sample+Size+Calculation;💡+Actionable+Business+Insights"/>
@@ -11,7 +11,8 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🎯 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> The Question
 
@@ -19,13 +20,9 @@
 
 Analyzing **294,478 user sessions** across a rigorous 21-day A/B test using two-proportion z-tests, confidence intervals, and segmented analysis.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-
-
 
 ## 📊 Results
 
@@ -40,7 +37,8 @@ Analyzing **294,478 user sessions** across a rigorous 21-day A/B test using two-
 </div>
 <img width="710" height="331" alt="image" src="https://github.com/user-attachments/assets/763dd7c7-6a7b-4a5b-a903-266d97f60808" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🎯 Statistical Verdict
 
@@ -49,9 +47,9 @@ Analyzing **294,478 user sessions** across a rigorous 21-day A/B test using two-
     
 </div>
 
- <img width="708" height="373" alt="image" src="https://github.com/user-attachments/assets/5a2bd753-b889-4c78-9706-67c858693e14" />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img width="708" height="373" alt="image" src="https://github.com/user-attachments/assets/5a2bd753-b889-4c78-9706-67c858693e14" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔍 Segmented Analysis
 
@@ -64,8 +62,7 @@ Analyzing **294,478 user sessions** across a rigorous 21-day A/B test using two-
 valid result
 <img width="711" height="290" alt="image" src="https://github.com/user-attachments/assets/efd02991-1470-4a56-80fb-769e4b917a53" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 A/B Testing Rules
 ✅ Calculate sample size BEFORE running
@@ -77,8 +74,7 @@ valid result
 ✅ Don't p-hack!
 <img width="713" height="219" alt="image" src="https://github.com/user-attachments/assets/a1b1cf0c-5e28-47e5-a601-234b3351350a" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
@@ -102,6 +98,9 @@ valid result
 
 <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100"/>
+
+
 ### 💖 Support My Work
 
 If you find my projects helpful, consider:
@@ -113,6 +112,6 @@ If you find my projects helpful, consider:
   <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40"/>
 </a>
 
-</div>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:6dd5fa,50:2980B9,100:6a11cb&height=500&section=footer&text=Thanks%20for%20visiting!%20💫&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60&desc=Made%20with%20❤️%20and%20lots%20of%20☕&descSize=18&descAlignY=85"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c2d12,20:9a3412,40:ea580c,65:f97316,85:fbbf24,100:fef3c7&height=150&section=footer&text=Thanks%20for%20visiting!%20💫&fontSize=32&fontColor=00000&animation=fadeIn&fontAlignY=60&desc=Made%20with%20❤️%20and%20lots%20of%20☕&descSize=18&descAlignY=85"/>
